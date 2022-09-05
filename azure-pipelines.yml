@@ -14,7 +14,7 @@ strategy:
       imageName: "macOS-latest"
     windows:
       imageName: "windows-latest"
-        Python27:
+    Python27:
       python.version: '2.7'
     Python35:
       python.version: '3.5'
